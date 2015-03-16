@@ -17,4 +17,26 @@ Guide to create the tidy data file
  2. Unpack the .zip file in your working directory.
  3. Run the run_analysis.R script available in this repository.
 
+Description of the variables in the finalAnswer.txt file
+------------------------------------------------------
+
+The data set contains 180 observations and 81 variables.
+
+**activity**
+Type: character
+Meaning: Name of the activity for the observation.
+Values: 
+WALKING
+WALKING_UPSTAIRS
+WALKING_DOWNSTAIRS 
+SITTING
+STANDING
+LAYING
+
+
+----------
+
+
+**subject**
+
 
