@@ -5,6 +5,7 @@ Written by: Rafael Antonio Serrano Recinos
 Required packages: dplyr 0.4.1, reshape2 1.4.1, plyr 1.8.1
 The raw data should be downloaded from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 The raw data have to be decompressed and the "UCI HAR Dataset" should be in your working directory.
+Run the script run_analysis.R
 
 
 Guide for run_analysis.R
