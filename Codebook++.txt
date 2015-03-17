@@ -2,10 +2,12 @@ Getting and Cleaning Data Course Project
 ========================================
 The goal of this project is to prepare a set of tidy data that can be used for further analysis. 
 
+
 Collection of the raw data
 --------------------------
 The raw data for this project was obtained using the following url: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 The data was recorded from a group of 30 volunteers doing six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.
+
 
 Guide to create the tidy data file
 ----------------------------------
@@ -14,12 +16,14 @@ Guide to create the tidy data file
  2. Unpack the .zip file in your working directory.
  3. Run the run_analysis.R script available in this repository.
 
-Description of the variables in the finalAnswer.txt file
+
+ 
+ Description of the variables in the finalAnswer.txt file
 ------------------------------------------------------
 
 The data set contains 180 observations and 81 variables.
 
-**activity**
+Variable Name:		activity
 Type: character
 Meaning: Name of the activity for the observation.
 Values: 
@@ -32,5 +36,30 @@ LAYING
 
 -----------------------------
 
-**subject**
+Variable Name:		subject
+Type: int
+Meaning: Identifier for the subject 
+Values: [1,30]
 
+-----------------------------
+
+Variable Name:		tBodyAcc.mean...X
+Type: num
+Meaning: time-body-acceleration-mean-X. 
+Units:  The average for all the measurements for the subject and activity in the X axis. 
+Values: [-1,1]
+
+-----------------------------
+
+Variable Name:		tBodyAcc.mean...Y
+Type: num
+Meaning: time-body-acceleration-mean-Y. 
+Units:  The average for all the measurements for the subject and activity in the Y axis. 
+Values: [-1,1]
+-----------------------------
+
+Variable Name:		tBodyAcc.mean...Z
+Type: num
+Meaning: time-body-acceleration-mean-Z. 
+Units:  The average for all the measurements for the subject and activity in the Z axis. 
+Values: [-1,1]
