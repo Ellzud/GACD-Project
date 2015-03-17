@@ -40,3 +40,4 @@ Guide for run_analysis.R
 24.- Clean the variables names to remove dots and make them more readable.
 25.- write file "finalFile.txt" to disk in the working directory.
 
+
