@@ -5,8 +5,12 @@ The goal of this project is to prepare a set of tidy data that can be used for f
 
 Collection of the raw data
 --------------------------
-The raw data for this project was obtained using the following url: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
-The data was recorded from a group of 30 volunteers doing six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.
+The raw data for this project was obtained using the following url:
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+The data was recorded from a group of 30 volunteers doing six activities
+(WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+wearing a smartphone (Samsung Galaxy S II) on the waist.
+
 
 
 Guide to create the tidy data file
