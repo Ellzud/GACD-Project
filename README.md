@@ -14,10 +14,15 @@ Guide for run_analysis.R
 1.- Checks if the required packages are installed in the machine and install them if they are not.
 
 2.- Load the required packages.
+
 3.- Reading the test (x, y, subject) files of the raw data set.
+
 4.- Reading the features file of the raw data set.
+
 5.- Rename the variables names in "X_test" to have features names.
+
 6.- Change the numbers in "y_test" for the names of the activities.
+
 7.- Convert the vector of "activities_test" to a data frame to be able to use "cbind".
 8.- Merging the files of the "test" data set using "cbind".
 9.- Rename the columns of "activity" and "subject" to be able to merge the "test" and "train" data sets.
