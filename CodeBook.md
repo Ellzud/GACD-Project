@@ -33,13 +33,10 @@ Guide to create the tidy data file
 
 The data set contains 180 observations and 68 variables.
 
-<<<<<<< HEAD
-Column 1
-Variable Name:        	activity
-=======
-Column 1 \n
+
+
+Column 1 
 Variable Name:		activity
->>>>>>> origin/master
 Type: character -- Categorical
 Meaning: Name of the activity for the observation.
 Values: 
