@@ -199,84 +199,84 @@ Units:  The average for all the measurements for the subject and activity in the
 Values: [-1,1]  
 
 -----------------------------
-Column 21
-Variable Name:		tBodyGyromeanX
-Type: num  -- Continuous
-Meaning: time-body-gyroscope-mean-X. 
-Units:  The average for all the measurements for the subject and activity in the x axis. 
-Values: [-1,1]
+Column 21  
+Variable Name:		tBodyGyromeanX  
+Type: num  -- Continuous  
+Meaning: time-body-gyroscope-mean-X.   
+Units:  The average for all the measurements for the subject and activity in the x axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 22
-Variable Name:		tBodyGyromeanY
-Type: num  -- Continuous
-Meaning: time-body-gyroscope-mean-Y. 
-Units:  The average for all the measurements for the subject and activity in the y axis. 
-Values: [-1,1]
+Column 22  
+Variable Name:		tBodyGyromeanY  
+Type: num  -- Continuous  
+Meaning: time-body-gyroscope-mean-Y.   
+Units:  The average for all the measurements for the subject and activity in the y axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 23
-Variable Name:		tBodyGyromeanZ
-Type: num  -- Continuous
-Meaning: time-body-gyroscope-mean-Z. 
-Units:  The average for all the measurements for the subject and activity in the z axis. 
-Values: [-1,1]
+Column 23  
+Variable Name:		tBodyGyromeanZ  
+Type: num  -- Continuous  
+Meaning: time-body-gyroscope-mean-Z.   
+Units:  The average for all the measurements for the subject and activity in the z axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 24
-Variable Name:		tBodyGyrostdX
-Type: num  -- Continuous
-Meaning: time-body-gyroscope-standardDeviation-X. 
-Units:  The average for all the measurements for the subject and activity in the x axis. 
-Values: [-1,1]
+Column 24  
+Variable Name:		tBodyGyrostdX  
+Type: num  -- Continuous  
+Meaning: time-body-gyroscope-standardDeviation-X.   
+Units:  The average for all the measurements for the subject and activity in the x axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 25
-Variable Name:		tBodyGyrostdY
-Type: num  -- Continuous
-Meaning: time-body-gyroscope-standardDeviation-Y. 
-Units:  The average for all the measurements for the subject and activity in the y axis. 
-Values: [-1,1]
+Column 25  
+Variable Name:		tBodyGyrostdY  
+Type: num  -- Continuous  
+Meaning: time-body-gyroscope-standardDeviation-Y.   
+Units:  The average for all the measurements for the subject and activity in the y axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 26
-Variable Name:		tBodyGyrostdZ
-Type: num  -- Continuous
-Meaning: time-body-gyroscope-standardDeviation-Z. 
-Units:  The average for all the measurements for the subject and activity in the z axis. 
-Values: [-1,1]
+Column 26  
+Variable Name:		tBodyGyrostdZ  
+Type: num  -- Continuous  
+Meaning: time-body-gyroscope-standardDeviation-Z.   
+Units:  The average for all the measurements for the subject and activity in the z axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 27
-Variable Name:		tBodyGyroJerkmeanX
-Type: num  -- Continuous
-Meaning: time-body-gyroscope-jerk-mean-X. 
-Units:  The average for all the measurements for the subject and activity in the x axis. 
-Values: [-1,1]
+Column 27  
+Variable Name:		tBodyGyroJerkmeanX  
+Type: num  -- Continuous  
+Meaning: time-body-gyroscope-jerk-mean-X.   
+Units:  The average for all the measurements for the subject and activity in the x axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 28
-Variable Name:		tBodyGyroJerkmeanY
-Type: num  -- Continuous
-Meaning: time-body-gyroscope-jerk-mean-Y. 
-Units:  The average for all the measurements for the subject and activity in the y axis. 
-Values: [-1,1]
+Column 28  
+Variable Name:		tBodyGyroJerkmeanY  
+Type: num  -- Continuous  
+Meaning: time-body-gyroscope-jerk-mean-Y.   
+Units:  The average for all the measurements for the subject and activity in the y axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 29
-Variable Name:		tBodyGyroJerkmeanZ
-Type: num  -- Continuous
-Meaning: time-body-gyroscope-jerk-mean-Z. 
-Units:  The average for all the measurements for the subject and activity in the z axis. 
-Values: [-1,1]
+Column 29  
+Variable Name:		tBodyGyroJerkmeanZ  
+Type: num  -- Continuous  
+Meaning: time-body-gyroscope-jerk-mean-Z.   
+Units:  The average for all the measurements for the subject and activity in the z axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 30
-Variable Name:		tBodyGyroJerkstdX
-Type: num  -- Continuous
-Meaning: time-body-gyroscope-jerk-standardDeviation-X. 
-Units:  The average for all the measurements for the subject and activity in the x axis. 
-Values: [-1,1]
+Column 30  
+Variable Name:		tBodyGyroJerkstdX  
+Type: num  -- Continuous  
+Meaning: time-body-gyroscope-jerk-standardDeviation-X.   
+Units:  The average for all the measurements for the subject and activity in the x axis.   
+Values: [-1,1]  
 
 -----------------------------
 Column 31
