@@ -26,7 +26,7 @@ Guide to create the tidy data file
 
 The data set contains 180 observations and 68 variables.
 
-Column 1
+Column 1 \n
 Variable Name:		activity
 Type: character -- Categorical
 Meaning: Name of the activity for the observation.
