@@ -12,7 +12,6 @@ Run the script run_analysis.R
 Guide for run_analysis.R
 =========================
 1.- Checks if the required packages are installed in the machine and install them if they are not.
-
 2.- Load the required packages.
 
 3.- Reading the test (x, y, subject) files of the raw data set.
