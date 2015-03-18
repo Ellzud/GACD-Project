@@ -119,84 +119,84 @@ Units:  The average for all the measurements for the subject and activity in the
 Values: [-1,1]  
 
 -----------------------------
-Column 11
-Variable Name:		tGravityAccmeanZ
-Type: num  -- Continuous
-Meaning: time-gravity-acceleration-mean-Z. 
-Units:  The average for all the measurements for the subject and activity in the z axis. 
-Values: [-1,1]
+Column 11  
+Variable Name:		tGravityAccmeanZ  
+Type: num  -- Continuous  
+Meaning: time-gravity-acceleration-mean-Z.  
+Units:  The average for all the measurements for the subject and activity in the z axis.   
+Values: [-1,1] 
 
 -----------------------------
-Column 12
-Variable Name:		tGravityAccstdX
-Type: num  -- Continuous
-Meaning: time-gravity-acceleration-standardDeviation-X. 
-Units:  The average for all the measurements for the subject and activity in the x axis. 
-Values: [-1,1]
+Column 12  
+Variable Name:		tGravityAccstdX  
+Type: num  -- Continuous  
+Meaning: time-gravity-acceleration-standardDeviation-X.  
+Units:  The average for all the measurements for the subject and activity in the x axis.  
+Values: [-1,1]  
 
 -----------------------------
-Column 13
-Variable Name:		tGravityAccstdY
-Type: num  -- Continuous
-Meaning: time-gravity-acceleration-standardDeviation-Y. 
-Units:  The average for all the measurements for the subject and activity in the y axis. 
-Values: [-1,1]
+Column 13  
+Variable Name:		tGravityAccstdY  
+Type: num  -- Continuous  
+Meaning: time-gravity-acceleration-standardDeviation-Y.  
+Units:  The average for all the measurements for the subject and activity in the y axis.  
+Values: [-1,1]  
 
 -----------------------------
-Column 14
-Variable Name:		tGravityAccstdZ
-Type: num  -- Continuous
-Meaning: time-gravity-acceleration-standardDeviation-Z. 
-Units:  The average for all the measurements for the subject and activity in the z axis. 
-Values: [-1,1]
+Column 14  
+Variable Name:		tGravityAccstdZ  
+Type: num  -- Continuous  
+Meaning: time-gravity-acceleration-standardDeviation-Z.   
+Units:  The average for all the measurements for the subject and activity in the z axis.  
+Values: [-1,1]  
 
 -----------------------------
-Column 15
-Variable Name:		tBodyAccJerkmeanX
-Type: num  -- Continuous
-Meaning: time-body-acceleration-jerk-mean-X. 
-Units:  The average for all the measurements for the subject and activity in the x axis. 
-Values: [-1,1]
+Column 15  
+Variable Name:		tBodyAccJerkmeanX  
+Type: num  -- Continuous  
+Meaning: time-body-acceleration-jerk-mean-X.   
+Units:  The average for all the measurements for the subject and activity in the x axis.  
+Values: [-1,1]  
 
 -----------------------------
-Column 16
-Variable Name:		tBodyAccJerkmeanY
-Type: num  -- Continuous
-Meaning: time-body-acceleration-jerk-mean-Y. 
-Units:  The average for all the measurements for the subject and activity in the y axis. 
-Values: [-1,1]
+Column 16  
+Variable Name:		tBodyAccJerkmeanY  
+Type: num  -- Continuous  
+Meaning: time-body-acceleration-jerk-mean-Y.   
+Units:  The average for all the measurements for the subject and activity in the y axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 17
-Variable Name:		tBodyAccJerkmeanZ
-Type: num  -- Continuous
-Meaning: time-body-acceleration-jerk-mean-Z. 
-Units:  The average for all the measurements for the subject and activity in the z axis. 
-Values: [-1,1]
+Column 17  
+Variable Name:		tBodyAccJerkmeanZ  
+Type: num  -- Continuous  
+Meaning: time-body-acceleration-jerk-mean-Z.   
+Units:  The average for all the measurements for the subject and activity in the z axis.  
+Values: [-1,1]  
 
 -----------------------------
-Column 18
-Variable Name:		tBodyAccJerkstdX
-Type: num  -- Continuous
-Meaning: time-body-acceleration-jerk-standardDeviation-X. 
-Units:  The average for all the measurements for the subject and activity in the x axis. 
-Values: [-1,1]
+Column 18  
+Variable Name:		tBodyAccJerkstdX  
+Type: num  -- Continuous  
+Meaning: time-body-acceleration-jerk-standardDeviation-X.   
+Units:  The average for all the measurements for the subject and activity in the x axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 19
-Variable Name:		tBodyAccJerkstdY
-Type: num  -- Continuous
-Meaning: time-body-acceleration-jerk-standardDeviation-Y. 
-Units:  The average for all the measurements for the subject and activity in the y axis. 
-Values: [-1,1]
+Column 19  
+Variable Name:		tBodyAccJerkstdY  
+Type: num  -- Continuous  
+Meaning: time-body-acceleration-jerk-standardDeviation-Y.   
+Units:  The average for all the measurements for the subject and activity in the y axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 20
-Variable Name:		tBodyAccJerkstdZ
-Type: num  -- Continuous
-Meaning: time-body-acceleration-jerk-standardDeviation-Z. 
-Units:  The average for all the measurements for the subject and activity in the z axis. 
-Values: [-1,1]
+Column 20  
+Variable Name:		tBodyAccJerkstdZ  
+Type: num  -- Continuous  
+Meaning: time-body-acceleration-jerk-standardDeviation-Z.  
+Units:  The average for all the measurements for the subject and activity in the z axis.  
+Values: [-1,1]  
 
 -----------------------------
 Column 21
