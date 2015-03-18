@@ -35,17 +35,17 @@ The data set contains 180 observations and 68 variables.
 
 
 
-Column 1 
-Variable Name:		activity
-Type: character -- Categorical
-Meaning: Name of the activity for the observation.
-Values: 
-WALKING
-WALKING_UPSTAIRS
-WALKING_DOWNSTAIRS 
-SITTING
-STANDING
-LAYING
+Column 1  
+Variable Name:		activity  
+Type: character -- Categorical  
+Meaning: Name of the activity for the observation.  
+Values:   
+WALKING  
+WALKING_UPSTAIRS  
+WALKING_DOWNSTAIRS   
+SITTING  
+STANDING  
+LAYING  
 
 -----------------------------
 Column 2
