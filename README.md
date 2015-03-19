@@ -1,13 +1,15 @@
-Getting and Cleaning Data Course Project
-README.txt
-Written by: Rafael Antonio Serrano Recinos
+Getting and Cleaning Data Course Project  
+README.txt  
+Written by: Rafael Antonio Serrano Recinos  
 
-Required packages: dplyr 0.4.1, reshape2 1.4.1, plyr 1.8.1
-The raw data should be downloaded from
- http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
-The raw data have to be decompressed and the "UCI HAR Dataset" should be in your working directory.
-Run the script run_analysis.R
 
+Required packages: dplyr 0.4.1, reshape2 1.4.1, plyr 1.8.1  
+The raw data should be downloaded from  
+ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones   
+The raw data have to be decompressed and the "UCI HAR Dataset" should be in your working directory.  
+Run the script run_analysis.R  
+
+The output file is a tidy dataset with 68 variables and 180 observations.
 
 Guide for run_analysis.R
 =========================
