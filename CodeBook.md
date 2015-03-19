@@ -279,305 +279,305 @@ Units:  The average for all the measurements for the subject and activity in the
 Values: [-1,1]  
 
 -----------------------------
-Column 31
-Variable Name:		tBodyGyroJerkstdY
-Type: num  -- Continuous
-Meaning: time-body-gyroscope-jerk-standardDeviation-Y. 
-Units:  The average for all the measurements for the subject and activity in the y axis. 
-Values: [-1,1]
+Column 31  
+Variable Name:		tBodyGyroJerkstdY  
+Type: num  -- Continuous  
+Meaning: time-body-gyroscope-jerk-standardDeviation-Y.   
+Units:  The average for all the measurements for the subject and activity in the y axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 32
-Variable Name:		tBodyGyroJerkstdZ
-Type: num  -- Continuous
-Meaning: time-body-gyroscope-jerk-standardDeviation-Z. 
-Units:  The average for all the measurements for the subject and activity in the z axis. 
-Values: [-1,1]
+Column 32  
+Variable Name:		tBodyGyroJerkstdZ  
+Type: num  -- Continuous  
+Meaning: time-body-gyroscope-jerk-standardDeviation-Z.   
+Units:  The average for all the measurements for the subject and activity in the z axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 33
-Variable Name:		tBodyAccMagmean
-Type: num  -- Continuous
-Meaning: time-body-acceleration-magnitude-mean. 
-Units:  The average for the subject and activity for the magnitude (mean) of the three-dimensional signals. 
-Values: [-1,1]
+Column 33  
+Variable Name:		tBodyAccMagmean  
+Type: num  -- Continuous  
+Meaning: time-body-acceleration-magnitude-mean.   
+Units:  The average for the subject and activity for the magnitude (mean) of the three-dimensional signals.   
+Values: [-1,1]  
 
 -----------------------------
-Column 34
-Variable Name:		tBodyAccMagstd
-Type: num  -- Continuous
-Meaning: time-body-acceleration-magnitude-standardDeviation. 
-Units:  The average for the subject and activity for the magnitude (standard deviation) of the three-dimensional signals. 
-Values: [-1,1]
+Column 34  
+Variable Name:		tBodyAccMagstd  
+Type: num  -- Continuous  
+Meaning: time-body-acceleration-magnitude-standardDeviation.   
+Units:  The average for the subject and activity for the magnitude (standard deviation) of the three-dimensional signals.   
+Values: [-1,1]  
 
 -----------------------------
-Column 35
-Variable Name:		tGravityAccMagmean
-Type: num  -- Continuous
-Meaning: time-gravity-acceleration-magnitude-mean. 
-Units:  The average for the subject and activity for the magnitude (mean) of the three-dimensional signals. 
-Values: [-1,1]
+Column 35  
+Variable Name:		tGravityAccMagmean  
+Type: num  -- Continuous  
+Meaning: time-gravity-acceleration-magnitude-mean.   
+Units:  The average for the subject and activity for the magnitude (mean) of the three-dimensional signals.   
+Values: [-1,1]  
 
 -----------------------------
-Column 36
-Variable Name:		tGravityAccMagstd
-Type: num  -- Continuous
-Meaning: time-gravity-acceleration-magnitude-standardDeviation. 
-Units:  The average for the subject and activity for the magnitude (standard deviation) of the three-dimensional signals. 
-Values: [-1,1]
+Column 36  
+Variable Name:		tGravityAccMagstd  
+Type: num  -- Continuous  
+Meaning: time-gravity-acceleration-magnitude-standardDeviation.   
+Units:  The average for the subject and activity for the magnitude (standard deviation) of the three-dimensional signals.   
+Values: [-1,1]  
 
 -----------------------------
-Column 37
-Variable Name:		tBodyAccJerkMagmean
-Type: num  -- Continuous
-Meaning: time-body-acceleration-jerk-magnitude-mean. 
-Units:  The average for the subject and activity for the magnitude (mean) of the three-dimensional signals. 
-Values: [-1,1]
+Column 37  
+Variable Name:		tBodyAccJerkMagmean  
+Type: num  -- Continuous  
+Meaning: time-body-acceleration-jerk-magnitude-mean.   
+Units:  The average for the subject and activity for the magnitude (mean) of the three-dimensional signals.   
+Values: [-1,1]  
 
 -----------------------------
-Column 38
-Variable Name:		tBodyAccJerkMagstd
-Type: num  -- Continuous
-Meaning: time-body-acceleration-jerk-magnitude-standardDeviation. 
-Units:  The average for the subject and activity for the magnitude (standard deviation) of the three-dimensional signals. 
-Values: [-1,1]
+Column 38  
+Variable Name:		tBodyAccJerkMagstd  
+Type: num  -- Continuous  
+Meaning: time-body-acceleration-jerk-magnitude-standardDeviation.   
+Units:  The average for the subject and activity for the magnitude (standard deviation) of the three-dimensional signals.   
+Values: [-1,1]  
 
 -----------------------------
-Column 39
-Variable Name:		tBodyGyroMagmean
-Type: num  -- Continuous
-Meaning: time-body-gyroscope-magnitude-mean. 
-Units:  The average for the subject and activity for the magnitude (mean) of the three-dimensional signals. 
-Values: [-1,1]
+Column 39  
+Variable Name:		tBodyGyroMagmean  
+Type: num  -- Continuous  
+Meaning: time-body-gyroscope-magnitude-mean.   
+Units:  The average for the subject and activity for the magnitude (mean) of the three-dimensional signals.   
+Values: [-1,1]  
 
 -----------------------------
-Column 40
-Variable Name:		tBodyGyroMagstd
-Type: num  -- Continuous
-Meaning: time-body-gyroscope-magnitude-standardDeviation. 
-Units:  The average for the subject and activity for the magnitude (standard deviation) of the three-dimensional signals. 
-Values: [-1,1]
+Column 40  
+Variable Name:		tBodyGyroMagstd  
+Type: num  -- Continuous  
+Meaning: time-body-gyroscope-magnitude-standardDeviation.   
+Units:  The average for the subject and activity for the magnitude (standard deviation) of the three-dimensional signals.   
+Values: [-1,1]  
 
 -----------------------------
-Column 41
-Variable Name:		tBodyGyroJerkMagmean
-Type: num  -- Continuous
-Meaning: time-body-gyroscope-jerk-magnitude-mean. 
-Units:  The average for the subject and activity for the magnitude (mean) of the three-dimensional signals. 
-Values: [-1,1]
+Column 41  
+Variable Name:		tBodyGyroJerkMagmean  
+Type: num  -- Continuous  
+Meaning: time-body-gyroscope-jerk-magnitude-mean.   
+Units:  The average for the subject and activity for the magnitude (mean) of the three-dimensional signals.   
+Values: [-1,1]  
 
 -----------------------------
-Column 42
-Variable Name:		tBodyGyroJerkMagstd
-Type: num  -- Continuous
-Meaning: time-body-gyroscope-jerk-magnitude-standardDeviation. 
-Units:  The average for the subject and activity for the magnitude (standard deviation) of the three-dimensional signals. 
-Values: [-1,1]
+Column 42  
+Variable Name:		tBodyGyroJerkMagstd  
+Type: num  -- Continuous  
+Meaning: time-body-gyroscope-jerk-magnitude-standardDeviation.   
+Units:  The average for the subject and activity for the magnitude (standard deviation) of the three-dimensional signals.   
+Values: [-1,1]  
 
 -----------------------------
-Column 43
-Variable Name:		fBodyAccmeanX
-Type: num  -- Continuous
-Meaning: frequency-body-acceleration-mean-X. 
-Units:  The average for all the measurements for the subject and activity in the x axis. 
-Values: [-1,1]
+Column 43  
+Variable Name:		fBodyAccmeanX  
+Type: num  -- Continuous  
+Meaning: frequency-body-acceleration-mean-X.   
+Units:  The average for all the measurements for the subject and activity in the x axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 44
-Variable Name:		fBodyAccmeanY
-Type: num  -- Continuous
-Meaning: frequency-body-acceleration-mean-Y. 
-Units:  The average for all the measurements for the subject and activity in the y axis. 
-Values: [-1,1]
+Column 44  
+Variable Name:		fBodyAccmeanY  
+Type: num  -- Continuous  
+Meaning: frequency-body-acceleration-mean-Y.   
+Units:  The average for all the measurements for the subject and activity in the y axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 45
-Variable Name:		fBodyAccmeanZ
-Type: num  -- Continuous
-Meaning: frequency-body-acceleration-mean-Z. 
-Units:  The average for all the measurements for the subject and activity in the z axis. 
-Values: [-1,1]
+Column 45  
+Variable Name:		fBodyAccmeanZ  
+Type: num  -- Continuous  
+Meaning: frequency-body-acceleration-mean-Z.   
+Units:  The average for all the measurements for the subject and activity in the z axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 46
-Variable Name:		fBodyAccstdX
-Type: num  -- Continuous
-Meaning: frequency-body-acceleration-standardDeviation-X. 
-Units:  The average for all the measurements for the subject and activity in the x axis. 
-Values: [-1,1]
+Column 46  
+Variable Name:		fBodyAccstdX  
+Type: num  -- Continuous  
+Meaning: frequency-body-acceleration-standardDeviation-X.   
+Units:  The average for all the measurements for the subject and activity in the x axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 47
-Variable Name:		fBodyAccstdY
-Type: num  -- Continuous
-Meaning: frequency-body-acceleration-standardDeviation-Y. 
-Units:  The average for all the measurements for the subject and activity in the y axis. 
-Values: [-1,1]
+Column 47  
+Variable Name:		fBodyAccstdY  
+Type: num  -- Continuous  
+Meaning: frequency-body-acceleration-standardDeviation-Y.   
+Units:  The average for all the measurements for the subject and activity in the y axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 48
-Variable Name:		fBodyAccstdZ
-Type: num  -- Continuous
-Meaning: frequency-body-acceleration-standardDeviation-Z.
-Units:  The average for all the measurements for the subject and activity in the z axis. 
-Values: [-1,1]
+Column 48  
+Variable Name:		fBodyAccstdZ  
+Type: num  -- Continuous  
+Meaning: frequency-body-acceleration-standardDeviation-Z.  
+Units:  The average for all the measurements for the subject and activity in the z axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 49
-Variable Name:		fBodyAccJerkmeanX
-Type: num  -- Continuous
-Meaning: frequency-body-acceleration-jerk-mean-X. 
-Units:  The average for all the measurements for the subject and activity in the x axis. 
-Values: [-1,1]
+Column 49  
+Variable Name:		fBodyAccJerkmeanX  
+Type: num  -- Continuous  
+Meaning: frequency-body-acceleration-jerk-mean-X.   
+Units:  The average for all the measurements for the subject and activity in the x axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 50
-Variable Name:		fBodyAccJerkmeanY
-Type: num  -- Continuous
-Meaning: frequency-body-acceleration-jerk-mean-Y. 
-Units:  The average for all the measurements for the subject and activity in the y axis. 
-Values: [-1,1]
+Column 50  
+Variable Name:		fBodyAccJerkmeanY  
+Type: num  -- Continuous  
+Meaning: frequency-body-acceleration-jerk-mean-Y.   
+Units:  The average for all the measurements for the subject and activity in the y axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 51
-Variable Name:		fBodyAccJerkmeanZ
-Type: num  -- Continuous
-Meaning: frequency-body-acceleration-jerk-mean-Z. 
-Units:  The average for all the measurements for the subject and activity in the z axis. 
-Values: [-1,1]
+Column 51  
+Variable Name:		fBodyAccJerkmeanZ  
+Type: num  -- Continuous  
+Meaning: frequency-body-acceleration-jerk-mean-Z.   
+Units:  The average for all the measurements for the subject and activity in the z axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 52
-Variable Name:		fBodyAccJerkstdX
-Type: num  -- Continuous
-Meaning: frequency-body-acceleration-jerk-standardDeviation-X. 
-Units:  The average for all the measurements for the subject and activity in the x axis. 
-Values: [-1,1]
+Column 52  
+Variable Name:		fBodyAccJerkstdX  
+Type: num  -- Continuous  
+Meaning: frequency-body-acceleration-jerk-standardDeviation-X.   
+Units:  The average for all the measurements for the subject and activity in the x axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 53
-Variable Name:		fBodyAccJerkstdY
-Type: num  -- Continuous
-Meaning: frequency-body-acceleration-jerk-standardDeviation-Y. 
-Units:  The average for all the measurements for the subject and activity in the y axis. 
-Values: [-1,1]
+Column 53  
+Variable Name:		fBodyAccJerkstdY  
+Type: num  -- Continuous  
+Meaning: frequency-body-acceleration-jerk-standardDeviation-Y.   
+Units:  The average for all the measurements for the subject and activity in the y axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 54
-Variable Name:		fBodyAccJerkstdZ
-Type: num  -- Continuous
-Meaning: frequency-body-acceleration-jerk-standardDeviation-Z. 
-Units:  The average for all the measurements for the subject and activity in the z axis. 
-Values: [-1,1]
+Column 54  
+Variable Name:		fBodyAccJerkstdZ  
+Type: num  -- Continuous  
+Meaning: frequency-body-acceleration-jerk-standardDeviation-Z.   
+Units:  The average for all the measurements for the subject and activity in the z axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 55
-Variable Name:		fBodyGyromeanX
-Type: num  -- Continuous
-Meaning: frequency-body-gyroscope-mean-X. 
-Units:  The average for all the measurements for the subject and activity in the x axis. 
-Values: [-1,1]
+Column 55  
+Variable Name:		fBodyGyromeanX  
+Type: num  -- Continuous  
+Meaning: frequency-body-gyroscope-mean-X.   
+Units:  The average for all the measurements for the subject and activity in the x axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 56
-Variable Name:		fBodyGyromeany
-Type: num  -- Continuous
-Meaning: frequency-body-gyroscope-mean-Y. 
-Units:  The average for all the measurements for the subject and activity in the y axis. 
-Values: [-1,1]
+Column 56  
+Variable Name:		fBodyGyromeany  
+Type: num  -- Continuous  
+Meaning: frequency-body-gyroscope-mean-Y.   
+Units:  The average for all the measurements for the subject and activity in the y axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 57
-Variable Name:		fBodyGyromeanZ
-Type: num  -- Continuous
-Meaning: frequency-body-gyroscope-mean-Z. 
-Units:  The average for all the measurements for the subject and activity in the z axis. 
-Values: [-1,1]
+Column 57  
+Variable Name:		fBodyGyromeanZ  
+Type: num  -- Continuous  
+Meaning: frequency-body-gyroscope-mean-Z.   
+Units:  The average for all the measurements for the subject and activity in the z axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 58
-Variable Name:		fBodyGyrostdX
-Type: num  -- Continuous
-Meaning: frequency-body-gyroscope-standardDeviation-X. 
-Units:  The average for all the measurements for the subject and activity in the x axis. 
-Values: [-1,1]
+Column 58  
+Variable Name:		fBodyGyrostdX  
+Type: num  -- Continuous  
+Meaning: frequency-body-gyroscope-standardDeviation-X.   
+Units:  The average for all the measurements for the subject and activity in the x axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 59
-Variable Name:		fBodyGyrostdY
-Type: num  -- Continuous
-Meaning: frequency-body-gyroscope-standardDeviation-Y. 
-Units:  The average for all the measurements for the subject and activity in the y axis. 
-Values: [-1,1]
+Column 59  
+Variable Name:		fBodyGyrostdY  
+Type: num  -- Continuous  
+Meaning: frequency-body-gyroscope-standardDeviation-Y.   
+Units:  The average for all the measurements for the subject and activity in the y axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 60
-Variable Name:		fBodyGyrostdZ
-Type: num  -- Continuous
-Meaning: frequency-body-gyroscope-standardDeviation-Z. 
-Units:  The average for all the measurements for the subject and activity in the z axis. 
-Values: [-1,1]
+Column 60  
+Variable Name:		fBodyGyrostdZ  
+Type: num  -- Continuous  
+Meaning: frequency-body-gyroscope-standardDeviation-Z.   
+Units:  The average for all the measurements for the subject and activity in the z axis.   
+Values: [-1,1]  
 
 -----------------------------
-Column 61
-Variable Name:		fBodyAccMagmean
-Type: num  -- Continuous
-Meaning: frequency-body-acceleration-magnitude-mean 
-Units:  The average for the subject and activity for the magnitude (mean) of the three-dimensional signals. 
-Values: [-1,1]
+Column 61  
+Variable Name:		fBodyAccMagmean  
+Type: num  -- Continuous  
+Meaning: frequency-body-acceleration-magnitude-mean   
+Units:  The average for the subject and activity for the magnitude (mean) of the three-dimensional signals.   
+Values: [-1,1]  
 
 -----------------------------
-Column 62
-Variable Name:		fBodyAccMagstd
-Type: num  -- Continuous
-Meaning: frequency-body-acceleration-magnitude-standardDeviation 
-Units:  The average for the subject and activity for the magnitude (standard deviation) of the three-dimensional signals. 
-Values: [-1,1]
+Column 62  
+Variable Name:		fBodyAccMagstd  
+Type: num  -- Continuous  
+Meaning: frequency-body-acceleration-magnitude-standardDeviation   
+Units:  The average for the subject and activity for the magnitude (standard deviation) of the three-dimensional signals.   
+Values: [-1,1]  
 
 -----------------------------
-Column 63
-Variable Name:		fBodyBodyAccJerkMagmean
-Type: num  -- Continuous
-Meaning: frequency-body-acceleration-jerk-magnitude-mean 
-Units:  The average for the subject and activity for the magnitude (mean) of the three-dimensional signals. 
-Values: [-1,1]
+Column 63  
+Variable Name:		fBodyBodyAccJerkMagmean  
+Type: num  -- Continuous  
+Meaning: frequency-body-acceleration-jerk-magnitude-mean   
+Units:  The average for the subject and activity for the magnitude (mean) of the three-dimensional signals.   
+Values: [-1,1]  
 
 -----------------------------
-Column 64
-Variable Name:		fBodyBodyAccJerkMagstd
-Type: num  -- Continuous
-Meaning: frequency-body-acceleration-jerk-magnitude-standardDeviation 
-Units:  The average for the subject and activity for the magnitude (standard deviation) of the three-dimensional signals. 
-Values: [-1,1]
+Column 64  
+Variable Name:		fBodyBodyAccJerkMagstd  
+Type: num  -- Continuous  
+Meaning: frequency-body-acceleration-jerk-magnitude-standardDeviation   
+Units:  The average for the subject and activity for the magnitude (standard deviation) of the three-dimensional signals.   
+Values: [-1,1]  
 
 -----------------------------
-Column 65
-Variable Name:		fBodyBodyGyroMagmean
-Type: num  -- Continuous
-Meaning: frequency-body-body-gyroscope-magnitude-mean 
-Units:  The average for the subject and activity for the magnitude (mean) of the three-dimensional signals. 
-Values: [-1,1]
+Column 65  
+Variable Name:		fBodyBodyGyroMagmean  
+Type: num  -- Continuous  
+Meaning: frequency-body-body-gyroscope-magnitude-mean   
+Units:  The average for the subject and activity for the magnitude (mean) of the three-dimensional signals.   
+Values: [-1,1]  
 
 -----------------------------
-Column 66
-Variable Name:		fBodyBodyGyroMagstd
-Type: num  -- Continuous
-Meaning: frequency-body-body-gyroscope-magnitude-standardDeviation
-Units:  The average for the subject and activity for the magnitude (standard deviation) of the three-dimensional signals. 
-Values: [-1,1]
+Column 66  
+Variable Name:		fBodyBodyGyroMagstd  
+Type: num  -- Continuous  
+Meaning: frequency-body-body-gyroscope-magnitude-standardDeviation  
+Units:  The average for the subject and activity for the magnitude (standard deviation) of the three-dimensional signals.   
+Values: [-1,1]  
 
 -----------------------------
-Column 67
-Variable Name:		fBodyBodyGyroJerkMagmean
-Type: num  -- Continuous
-Meaning: frequency-body-body-gyroscope-jerk-magnitude-mean
-Units:  The average for the subject and activity for the magnitude (mean) of the three-dimensional signals. 
-Values: [-1,1]
+Column 67  
+Variable Name:		fBodyBodyGyroJerkMagmean  
+Type: num  -- Continuous  
+Meaning: frequency-body-body-gyroscope-jerk-magnitude-mean  
+Units:  The average for the subject and activity for the magnitude (mean) of the three-dimensional signals.   
+Values: [-1,1]  
 
 -----------------------------
-Column 68
-Variable Name:		fBodyBodyGyroJerkMagstd
-Type: num  -- Continuous
-Meaning: frequency-body-body-gyroscope-jerk-magnitude-standardDeviation
-Units:  The average for the subject and activity for the magnitude (standard deviation) of the three-dimensional signals. 
-Values: [-1,1]
+Column 68  
+Variable Name:		fBodyBodyGyroJerkMagstd  
+Type: num  -- Continuous  
+Meaning: frequency-body-body-gyroscope-jerk-magnitude-standardDeviation  
+Units:  The average for the subject and activity for the magnitude (standard deviation) of the three-dimensional signals.   
+Values: [-1,1]  
