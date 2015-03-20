@@ -7,10 +7,22 @@ Required packages: dplyr 0.4.1, reshape2 1.4.1, plyr 1.8.1
 The raw data should be downloaded from  
  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones   
 The raw data have to be decompressed and the "UCI HAR Dataset" should be in your working directory.  
-Run the script run_analysis.R  
+Run the script run_analysis.R    
 
-The output file is a tidy dataset with 68 variables and 180 observations.  
-It is tidy because it follows the following rules:  
+*.- you could read the file from you working directory using:  
+data <- read.table("finalFile.txt, header = TRUE)  
+
+*.- or you could read the file from Coursera using:    
+    address <- "https://s3.amazonaws.com/coursera-uploads/user-23b06fa0991ca861bc8f2815/973499/asst-3/1595f9a0ccfd11e489280b44ac9a288f.txt"
+    address <- sub("^https", "http", address)
+    data <- read.table(url(address), header = TRUE)   
+ 
+=============================================================
+
+The output file is a tidy dataset with 68 variables and 180 observations. (wide form)  
+It is tidy because it follows the guidelines in these forum threads and the following rules:  
+https://class.coursera.org/getdata-012/forum/thread?thread_id=234  
+https://class.coursera.org/getdata-012/forum/thread?thread_id=9  
 
     Each variable you measure should be in one column
     Each different observation of that variable should be in a different row
