@@ -10,7 +10,8 @@ The raw data have to be decompressed and the "UCI HAR Dataset" should be in your
 Run the script run_analysis.R    
 
 *.- you could read the file from you working directory using:  
-data <- read.table("finalFile.txt", header = TRUE)  
+data <- read.table("finalFile.txt", header = TRUE) 
+view(data)
 
 *.- or you could read the file from Coursera using:    
     address <- "https://s3.amazonaws.com/coursera-uploads/user-23b06fa0991ca861bc8f2815/973499/asst-3/1595f9a0ccfd11e489280b44ac9a288f.txt"  
