@@ -24,7 +24,9 @@ Guide to create the tidy data file
  2. Unpack the .zip file in your working directory.
  3. Required packages: dplyr 0.4.1, reshape2 1.4.1, plyr 1.8.1
  4. Run the run_analysis.R script available in this repository.
- 5. The output file "finalFile.txt" will be available in your working directory
+ 5. The output file "finalFile.txt" will be available in your working directory  
+ 6. To import the dataset into R, use:  
+    finalFile <- read.table("finalFile.txt", header=TRUE, quote="\"")
 
 
  
