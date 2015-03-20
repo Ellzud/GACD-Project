@@ -15,7 +15,8 @@ data <- read.table("finalFile.txt, header = TRUE)
 *.- or you could read the file from Coursera using:    
     address <- "https://s3.amazonaws.com/coursera-uploads/user-23b06fa0991ca861bc8f2815/973499/asst-3/1595f9a0ccfd11e489280b44ac9a288f.txt"  
     address <- sub("^https", "http", address)  
-    data <- read.table(url(address), header = TRUE)   
+    data <- read.table(url(address), header = TRUE)  
+    view(data)  
  
 =============================================================
 
