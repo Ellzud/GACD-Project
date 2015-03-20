@@ -9,7 +9,14 @@ The raw data should be downloaded from
 The raw data have to be decompressed and the "UCI HAR Dataset" should be in your working directory.  
 Run the script run_analysis.R  
 
-The output file is a tidy dataset with 68 variables and 180 observations.
+The output file is a tidy dataset with 68 variables and 180 observations.  
+It is tidy because it follows the following rules:  
+
+    Each variable you measure should be in one column
+    Each different observation of that variable should be in a different row
+    There should be one table for each "kind" of variable
+    If you have multiple tables, they should include a column in the table that allows them to be linked
+
 
 Guide for run_analysis.R
 =========================
