@@ -7,9 +7,13 @@ output: html_document
 
 Getting and Cleaning Data Course Project
 ========================================
-The goal of this project is to prepare a set of tidy data that can be used for further analysis. 
-Written by: Rafael Antonio Serrano Recinos
+The goal of this project is to prepare a set of tidy data that can be used for further analysis.  
+The raw data from this prject was merged using the "test" and "train" data sets to create a single data set.  
+The variables and activities names were changed so they can have descriptive names.  
+The variables that were selected are the mean() and std().  
+The data was summarized using the average of each variable for each activity and each subject.  
 
+To have more information of how each of this steps was completed... please see the README.  
 
 Collection of the raw data
 --------------------------
@@ -25,8 +29,9 @@ Guide to create the tidy data file
  3. Required packages: dplyr 0.4.1, reshape2 1.4.1, plyr 1.8.1
  4. Run the run_analysis.R script available in this repository.
  5. The output file "finalFile.txt" will be available in your working directory  
- 6. To import the dataset into R, use:  
-    finalFile <- read.table("finalFile.txt", header=TRUE, quote="\"")
+ 6. To import the dataset into R, use: 
+    data <- read.table("finalFile.txt", header=TRUE)  
+    view(data)  
 
 
  
