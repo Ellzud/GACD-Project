@@ -38,7 +38,15 @@ Guide to create the tidy data file
  Description of the variables in the finalAnswer.txt file
 ------------------------------------------------------
 
-The data set contains 180 observations and 68 variables.
+The data set contains 180 observations and 68 variables.(wide form)  
+It is tidy because it follows the guidelines in these forum threads and the following rules:  
+https://class.coursera.org/getdata-012/forum/thread?thread_id=234  
+https://class.coursera.org/getdata-012/forum/thread?thread_id=9  
+
+Each variable you measure should be in one column  
+Each different observation of that variable should be in a different row  
+There should be one table for each "kind" of variable  
+If you have multiple tables, they should include a column in the table that allows them to be linked  
 
 
 
